@@ -1,0 +1,6 @@
+module Pods_manage {
+  umbrella header "Pods-manage-umbrella.h"
+
+  export *
+  module * { export * }
+}
